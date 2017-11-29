@@ -1,0 +1,33 @@
+{
+  "name": "native-egyptian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "private": true,
+  "proxy": "https://react-native-web-playground.glitch.me",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "create-react-app": "^1.4.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-native-web": "^0.1.9"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-b-carter/native-egyptian.git"
+  },
+  "author": "Nick Carter <nicholas.b.carter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-b-carter/native-egyptian/issues"
+  },
+  "homepage": "https://github.com/nicholas-b-carter/native-egyptian#readme"
+}
